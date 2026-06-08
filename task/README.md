@@ -29,7 +29,7 @@
 
 ## Используемые технологии
 
-- HTML5
+- HTML
 - CSS3
 - Markdown
 - Git
@@ -40,9 +40,11 @@
 ## Структура проекта
 
 ```
+git/
 docs/
 reports/
 site/
+.gitignore.txxtfile
 README.md
 ```
 
